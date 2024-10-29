@@ -1,0 +1,54 @@
+.header-wrapper {
+    margin-bottom: 5rem;
+}
+
+.roadr_map_btn {
+    background-color: rgb(14, 165, 233);
+    font-weight: 500;
+    border: navajowhite;
+    padding: 1rem;
+    border-radius: 29px;
+    color: #fff;
+    font-size: 18px;
+}
+
+.free-course {
+    padding: 10px 15px;    
+    border: none;
+    background: rgb(22, 163, 74);
+    color: #fff;
+    border-radius: 100%;
+}
+
+.header-title {
+    text-align: end;
+    font-size: 2.625rem;
+    line-height: 70px;
+    font-weight: bold;
+}
+
+.header-text {
+    text-align: end;
+    margin: 1rem 0;
+    font-size: 1.5rem;
+    line-height: 2.375rem;
+    font-weight: 500;
+}
+
+.button-wrapper {
+    text-align: end;
+}
+
+.btn-text {
+    padding-right: 0.5rem;
+    font-weight: 500;
+}
+
+.header-title, .btn-text, .header-text {
+    color: #fff;
+}
+
+.play-icon {
+    width: 30px;
+    height: 30px;
+}

@@ -1,0 +1,32 @@
+.course-title {
+    color: #fff;
+}
+
+.box-title {
+    font-size: 16px !important;
+}
+
+.box-text, .student, .teacher{
+    opacity: 0.7;
+    font-size: 14px !important;
+}
+
+.course-text {
+    opacity: 0.7;
+    font-size: 18px;
+    color: rgb(100, 116, 139);
+    font-weight: 700;
+}
+
+.price {
+    color: rgb(34, 197, 94);
+}
+
+.card-body {
+    background-color: rgb(36, 42, 56);
+    color: #fff !important;
+}
+
+.star-icon, .star-icon + span {
+    color: rgb(245, 158, 11);
+}

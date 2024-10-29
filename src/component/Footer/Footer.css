@@ -1,0 +1,25 @@
+footer {
+    background-color: #242A38;
+    font-weight: 700;
+    color: rgb(100, 116, 139);
+    text-align: end;
+    padding-bottom: 2rem;
+}
+
+.footer-title, .copy-right, .website-name {
+    color: #fff;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.a-link, .about-us {
+    text-decoration: none ;
+    color: #abb8c3;
+}
+
+.instagram-icon, .telegram-icon {
+    font-size: 38px;
+    padding-left: 12px;
+}

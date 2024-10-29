@@ -1,0 +1,58 @@
+.box-container {
+    margin: 5rem 0;
+    color: #fff;
+}
+
+.top_box-des {
+    opacity: 0.7;
+    margin: 0.5rem 0 3rem 0;
+    font-size: 18px;
+    color: rgb(100, 116, 139);
+    font-weight: 700;
+    display: block;
+}
+
+.box-wrapper {
+    text-align: center;
+    border-radius: 1rem;
+    padding: 1rem;
+    width: 16rem;
+}
+
+.box-wrapper svg {
+    font-size: 60px;
+}
+
+.title-box {
+    font-size: 1.125rem;
+    font-weight: 500;
+}
+
+.course-number {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.skill-box {
+    background: #FF0099;  
+    background: -webkit-linear-gradient(to right, #493240, #FF0099); 
+    background: linear-gradient(to right, #493240, #FF0099); 
+}
+
+.python-box {
+    background: #59C173;  
+    background: -webkit-linear-gradient(to right, #5D26C1, #a17fe0, #59C173);  
+    background: linear-gradient(to right, #5D26C1, #a17fe0, #59C173);
+}
+
+.hack-box {
+    background: #11998e;  
+    background: -webkit-linear-gradient(to bottom, #38ef7d, #11998e);  
+    background: linear-gradient(to bottom, #38ef7d, #11998e); 
+}
+
+.frontEnd-box {
+    background: #8A2387; 
+    background: -webkit-linear-gradient(to right, #F27121, #E94057, #8A2387); 
+    background: linear-gradient(to right, #F27121, #E94057, #8A2387); 
+}
